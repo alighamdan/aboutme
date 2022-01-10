@@ -1,0 +1,72 @@
+.main-avatar {
+    border-radius: 50%;
+    width: 60px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.navbuttons {
+    float: right;
+    margin-top: 24px;
+    margin-right: 5vw;
+    font-size: 16px;
+    width: 85px;
+    height: 40px;
+    background: none;
+    border: 1.90px #000337 solid;
+    border-radius: 8px;
+    color: #000337;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.navbuttons:hover {
+    background-color: #000337;
+    color: #2145ef;
+}
+
+
+#content {
+    margin-top: 50px;
+}
+
+center {
+    font-size: 16px;
+}
+
+a {
+    color: unset;
+    text-decoration: none;
+    transition: 0.2s
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px solid white;
+    width: 500px;
+}
+
+.ignore {
+    width: 98.2vw;
+    overflow: hidden;
+    border: 1px solid #000337;
+}
+
+.lang {
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.desc {
+    margin-top: -1px;
+    opacity: 0.7;
+}
+
+.ownerhtmlurl, .projecthtmlurl {
+    color: lightseagreen;
+}
